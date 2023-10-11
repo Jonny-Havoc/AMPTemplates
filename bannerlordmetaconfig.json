@@ -1,0 +1,17 @@
+[
+    {
+        "ConfigFile": "Configs/tdm.txt",
+        "ConfigType": "",
+        "AutoMap": false
+    },
+    {
+        "ConfigFile": "Configs/battle.txt",
+        "ConfigType": "",
+        "AutoMap": false
+    },
+    {
+        "ConfigFile": "Configs/skirmish.txt",
+        "ConfigType": "",
+        "AutoMap": false
+    }
+]

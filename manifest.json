@@ -1,9 +1,10 @@
 {
-	"id": "116952614",
-	"authors": ["CubeCoders Limited", "AMP Community"],
-	"origin": "https://github.com/Jonny-Havoc/AMPTemplates.git",
-	"url": "https://github.com/Jonny-Havoc/AMPTemplates",
-	"imagefile": "",
-	"prefix": "bannerlord",
-	"repotype": "AppTemplates"
+    "id": "c16e137a-c3dd-40a4-8b9f-56708d6a708a",
+    "authors": [
+        "Jonny-Havoc - Made with AMP Config Generator"
+    ],
+    "origin": "https://github.com/Jonny-Havoc - Made with AMP Config Generator/AMPTemplates.git",
+    "url": "https://github.com/Jonny-Havoc - Made with AMP Config Generator/AMPTemplates",
+    "imagefile": "",
+    "prefix": "Jonny-Havoc - Made with AMP Config Generator"
 }
